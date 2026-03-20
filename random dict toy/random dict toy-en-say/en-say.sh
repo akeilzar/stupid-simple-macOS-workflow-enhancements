@@ -1,1 +1,1 @@
-cat en.txt| sort -R | head -n 1 | tee /dev/tty | say
+cat en.txt| sort -R | head -n 1 | tee /dev/tty | say -v 'Tessa'
